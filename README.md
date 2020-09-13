@@ -12,7 +12,7 @@ The project uses Go modules, so you'll want to use a vergion of Go more recent t
 
 ```
 $ make bin
-go build -o simulated-evolution cmd/simulated-evolution/*.go
+go build -o evolution cmd/simulated-evolution/*.go
 ```
 
 # The world
