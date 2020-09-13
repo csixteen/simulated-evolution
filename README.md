@@ -31,3 +31,12 @@ There are 6 types of trees in the world, and when eaten they either give or take
 - All the values are still hardcoded: chance of reproduction, necessary energy for reproduction, probability of trees growing, etc.
 - Path for sprites are hardcoded.
 - Animal motion is still random, perhaps it should depend not only on the genes but on the outcome of exploring certain areas and their interaction with other animals.
+- The code isn't tested at all
+
+# Contributing
+
+I'll be tackling the limitations and caveats as I find the time, but contributions are more than welcome. Just open a Pull-request.
+
+# License
+
+[MIT](https://github.com/csixteen/simulated-evolution/blob/master/LICENSE), as always.
