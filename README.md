@@ -10,7 +10,7 @@ The code is still a tiny tad messy and lacking documentation, but hopefully it's
 
 # Dependencies
 
-The project uses Go modules, so you'll want to use a vergion of Go more recent than [1.11](https://blog.golang.org/using-go-modules).
+The project uses Go modules, so you'll want to use a version of Go more recent than [1.11](https://blog.golang.org/using-go-modules).
 
 # Building
 
