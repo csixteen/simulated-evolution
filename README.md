@@ -4,6 +4,10 @@ Adapted from A.K. Dewdney's article "Simulated evolution: wherein bugs learn to 
 
 The code is still a tiny tad messy and lacking documentation, but hopefully it's easy to understand and modify.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/csixteen/simulated-evolution/master/screenshots/simulated-evolution.png" />
+</p>
+
 # Dependencies
 
 The project uses Go modules, so you'll want to use a vergion of Go more recent than [1.11](https://blog.golang.org/using-go-modules).
