@@ -41,7 +41,7 @@ There are 6 types of trees in the world, and when eaten they either give or take
 
 # Contributing
 
-I'll be tackling the limitations and caveats as I find the time, but contributions are more than welcome. Just open a Pull-request.
+I'll be tackling the limitations and caveats as I find the time, but contributions are more than welcome. Just open a Pull-request. Don't forget to check the [Issues](https://github.com/csixteen/simulated-evolution/issues) section.
 
 # License
 
