@@ -8,6 +8,8 @@ The code is still a tiny tad messy and lacking documentation, but hopefully it's
   <img src="https://raw.githubusercontent.com/csixteen/simulated-evolution/master/screenshots/simulated-evolution.png" />
 </p>
 
+*Disclaimer: I didn't create these sprites, I found them on the [webz](https://i.imgur.com/ij2dbGa.png). I wish I knew who created to give proper credit.*
+
 # Dependencies
 
 The project uses Go modules, so you'll want to use a version of Go more recent than [1.11](https://blog.golang.org/using-go-modules).
