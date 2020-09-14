@@ -35,8 +35,8 @@ import (
 )
 
 const (
-	TreesPNG   = "trees.png"
-	AnimalsPNG = "animals2.png"
+	TreesPNG   = "assets/trees.png"
+	AnimalsPNG = "assets/animals2.png"
 
 	ScreenWidth  = 1024
 	ScreenHeight = 768
